@@ -143,7 +143,7 @@
 &kp ESCAPE             &kp Q  &kp W  &kp F         &kp P                        &kp B        &kp J      &kp L                        &kp U      &kp Y    &kp SINGLE_QUOTE  &kp BSPC
 &gpt LEFT_CONTROL TAB  &kp A  &kp R  &kp S         &kp T                        &kp G        &kp M      &kp N                        &kp E      &kp I    &kp O             &kp MINUS
 &kp LSHFT              &kp Z  &kp X  &kp C         &kp D                        &kp V        &kp K      &kp H                        &kp COMMA  &kp DOT  &kp FSLH          &kp SEMI
-                                     &kp LEFT_GUI  &default_layer_switcher 1 0  &kp SPACE    &kp ENTER  &default_layer_switcher 2 0  &kp RALT
+                                     &kp LEFT_GUI  &mo 1  &kp SPACE    &kp ENTER  &mo 2  &kp RALT
             >;
         };
 
